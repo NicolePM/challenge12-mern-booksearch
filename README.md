@@ -1,4 +1,4 @@
-# Book Search Engine Starter Code
+# Book Search Engine: MERN Stack
 
 ## Description:
 Refactor Google Books API search engine built with a RESTful API, to a GraphQL API built with Apollo Server. ",
